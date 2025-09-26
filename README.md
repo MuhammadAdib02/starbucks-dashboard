@@ -97,4 +97,3 @@ Screenshots of the dashboard can be found in the [`images`](./images) folder.
 
 ## 📜 License
 This project is for **educational and portfolio purposes**.  
-Dataset: [Starbucks Customer Dataset – Kaggle](https://www.kaggle.com/)  
