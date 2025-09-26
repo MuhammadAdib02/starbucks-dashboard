@@ -47,7 +47,7 @@ README.md # Project documentation
 ---
 
 ### 2. Purchase Behavior
-- **Total Spend:** $2.55K (~$22.57 per customer)  
+- **Total Spend:** RM2.55K (~RM22.57 per customer)  
 - **Spending by Age:** Fairly distributed across groups 20–29, 30–39, 40–49, 50+  
 - **Gender:** Predominantly female customers  
 - **Food Preferences:** Coffee dominates; desserts moderate; snacks small  
